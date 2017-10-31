@@ -1,0 +1,19 @@
+{
+  "name": "roadtrip",
+  "version": "1.0.0",
+  "description": "this is for the roadtrip iternary assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfranzen19/roadtrip.git"
+  },
+  "author": "bt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfranzen19/roadtrip/issues"
+  },
+  "homepage": "https://github.com/bfranzen19/roadtrip#readme"
+}
