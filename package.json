@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bfranzen19/roadtrip/issues"
   },
-  "homepage": "https://github.com/bfranzen19/roadtrip#readme"
+  "homepage": "https://github.com/bfranzen19/roadtrip#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }

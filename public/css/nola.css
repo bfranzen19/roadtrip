@@ -1,0 +1,42 @@
+p {
+  color: white;
+  margin-left: 20px;
+  font-family: cursive;
+  font-size: 22px;
+  margin-right: 10px;
+  padding-right: 0;
+  display: inline-block;
+}
+
+body {
+  background-image: url('/css/IMG_2677.JPG');
+  height: 80%;
+  width: 80%;
+}
+
+h1 {
+  text-align: center;
+  color: aquamarine;
+  margin-left: 200px;
+}
+
+.next {
+  margin-left: 25px;
+  padding: 1px 3px;
+  border: 1px solid white;
+  border-radius: 20%;
+  display: inline-block;
+  background-color: #BBBABA;
+  box-shadow: 5px 5px 5px black;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+  position: fixed;
+}
+
+#carouselExampleIndicators {
+  margin-left: 100px;
+  margin-top: 40px;
+  width: 100%;
+}
