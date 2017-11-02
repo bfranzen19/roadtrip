@@ -21,7 +21,7 @@ h1 {
 }
 
 .next {
-  margin-left: 25px;
+  margin-left: 120px;
   padding: 1px 3px;
   border: 1px solid white;
   border-radius: 20%;
@@ -36,7 +36,26 @@ h1 {
 }
 
 #carouselExampleIndicators {
-  margin-left: 100px;
-  margin-top: 40px;
+  margin-left: 0px;
+  margin-top: 20px;
+  width: 700px;
+}
+
+.maps {
+  height: 300px;
+  width: 400px;
+  margin-left: 135px;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.carouselTitle {
+  text-align: center;
+  margin-left: 140px;
   width: 100%;
+  color: #333136;
+  font-size: 18px;
+  text-shadow: 2px 2px 1px #FEFEFF;
+  font-weight: bold;
+  margin-bottom: 0px;
 }
